@@ -5,7 +5,7 @@ class Footer extends Component {
   render() {
     return (
       <>
-        <div className="footer flex flex-col justify-center items-center font-mono">
+        <div className="footer flex flex-col justify-center items-center font-mono my-10">
           <p>copyright@2021 bernosproduction |powered by</p>
           <p>bernosproduction</p>
         </div>
